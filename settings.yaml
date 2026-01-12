@@ -6,8 +6,8 @@ binance:
 
 telegram:
   enabled: true
-  bot_token: "8214991799:AAGXhXFtZddNTbYfPh2ifv_If0QgTcleUuI"
-  chat_id: "7553912440"
+  bot_token: "your_bot_token"
+  chat_id: "your_chat_id"
 
 logic:
   cooldown_minutes: 30
