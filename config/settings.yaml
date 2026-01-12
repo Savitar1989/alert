@@ -1,0 +1,16 @@
+binance:
+  exchange: binance
+  market_type: future
+  quote: USDT
+  rate_limit_delay: 0.2
+
+telegram:
+  enabled: true
+  bot_token: "8214991799:AAGXhXFtZddNTbYfPh2ifv_If0QgTcleUuI"
+  chat_id: "7553912440"
+
+logic:
+  cooldown_minutes: 30
+  volume_lookback: 10
+  range_lookback: 5
+  debug: true   # <<< DEBUG MODE ON/OFF
